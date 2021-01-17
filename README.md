@@ -13,3 +13,5 @@ This repo contains a movie recommender [app](https://movie-recommendation-phil.h
 * Data/*.csv - csv files gathered from various sources (datasets and APIs)
 
 # References
+# Preview 
+![movie recommender dashboard](https://github.com/Phil-avi/Movie-Recommender-Dashboard/blob/main/movie-recommender.gif)
